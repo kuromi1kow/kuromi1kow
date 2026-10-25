@@ -70,6 +70,7 @@ Before graduate school I was the primary ML engineer at the National Bank of Kaz
 
 | | |
 |---|---|
+| [**Amazon Movie Review Rating Prediction**](https://github.com/kuromi1kow/amazon-movie-review-rating-prediction) | Kaggle competition (BU CS506): predicting 1–5 star ratings with classical ML, using negation-aware TF-IDF, VADER sentiment, out-of-fold target encoding and expected-value logistic regression (CV RMSE ≈ 0.677) |
 | [**gov-news-ministry-predictor**](https://github.com/kuromi1kow/gov-news-ministry-predictor) | Russian-language news classifier that routes articles to the responsible government ministry (TensorFlow) |
 | [**TgBotWithTenserFlowRealization**](https://github.com/kuromi1kow/TgBotWithTenserFlowRealization) | Telegram music recommendation bot built on collaborative filtering |
 | [**IEEE_sb_web_site**](https://github.com/kuromi1kow/IEEE_sb_web_site) | Website for the IEEE Student Branch at Astana IT University |
